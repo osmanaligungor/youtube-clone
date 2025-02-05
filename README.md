@@ -15,7 +15,6 @@
 <li>JAVASCRIPT</li>
 <li>REACT</li>
 <li>VITE</li>
-<li>useSearchParams</li>
 <li>axios</li>
 <li>react-router-dom</li>
 <li>react-icons</li>
@@ -23,3 +22,6 @@
 <li>millify</li>
 
 <h1>Preview</h1>
+
+![Screen Recording 2025-02-05 at 14 32 27](https://github.com/user-attachments/assets/6483c8f4-3186-4e4d-a6c0-1e6375d44c5d)
+
